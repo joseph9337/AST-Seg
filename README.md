@@ -1,1 +1,1 @@
-# AST-Seg
+# Anatomy-aware Spatio-Temporal Modeling for Echocardiography Segmentation
